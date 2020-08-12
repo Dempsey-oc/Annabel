@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/junk/exports/dependencies/spigot-1.14.4.jar"/>
+	<classpathentry kind="lib" path="D:/junk/testservers/1.14.4/plugins/PermissionsEx-1.23.4.jar"/>
+	<classpathentry kind="lib" path="D:/junk/testservers/1.14.4/plugins/ItemsAdder (1).jar"/>
+	<classpathentry kind="lib" path="D:/junk/exports/Mt 1.14/craftex/MT/CompaniesReloaded-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/junk/exports/dependencies/Vault (1).jar"/>
+	<classpathentry kind="lib" path="D:/junk/exports/dependencies/worldedit-bukkit-7.0.1 (1).jar"/>
+	<classpathentry kind="lib" path="D:/junk/exports/dependencies/worldguard-bukkit-7.0.2 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dima Gillaev/Downloads/Discord_Bot_API_-_V3.0.jar"/>
+	<classpathentry kind="lib" path="D:/junk/exports/dependencies/ArmorEquipEvent-1.7.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

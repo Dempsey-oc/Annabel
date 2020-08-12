@@ -1,0 +1,42 @@
+name: CraftMT
+version: 2.7.5.2
+main: nl.craftex.mt.Main
+author: x86d
+api-version: 1.14
+softdepends: [ItemsAdder, CompaniesReloaded, WorldGuard, WorldEdit, Vault, DiscordBotAPI]
+
+commands:
+    plots:
+       description: shows plot gui
+    padd:
+       description: add player to your plot
+    premove:
+       description: remove player from your plot
+    discord:
+       description: discord
+    pinfo:
+       description: plotinfo
+    level:
+       description: see your level
+    setprefix:
+       description: set somebody's prefix
+    setsuffix:
+       description: set somebody's suffix
+    atm:
+       description: atm menu
+    pass:
+       description: Wholesale pass  
+    vergunning:
+       description: Vergunning
+    bedrijf:
+       description: bedrijf commando
+    wmenu:
+       description: warps menu
+    texturepack:
+       description: texturepack
+    color:
+       description: chatcolor
+    cexp:
+       description: cexp
+    cutil:
+       description: cutil
